@@ -1,6 +1,6 @@
 # Models
 
-This repository contains several models trained durind experiments with CNN.
+This repository contains several models trained during experiments with CNN.
 
 The authors would like to thank the AHRC for funding the Arch-I-Scan project (Grant AH/T001003/1).
 
