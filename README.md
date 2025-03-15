@@ -14,7 +14,7 @@ There are for types of pretraining used in this study
 
 All simulated datasets can be found in [Simulated images](https://github.com/ArchiScn/Simulated_images) repository.
 
-## Acknowledgment
+## Acknowledgements
 The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
 
 ## Citation for the Arch-I-Scan Project Repositories
