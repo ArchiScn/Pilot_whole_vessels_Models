@@ -3,7 +3,7 @@
 This repository contains several models trained during experiments with CNN. To access these models you should click the menu item ‘Releases’ and then select one of the two releases:
 * VGG19 based models. This 'release' contains 32 modles based on vgg19 architecture and trained from different pretrained states.
 * MobilenetV2 based models. This 'release' contains 101 models based on MobilenetV2 architecture and trained from different pretrained states.
-To access an individual model you should open list of files by clicking on the menu item 'Assets' and then download any of models by clicking on the file name. All models are packed in zip files.
+To access an individual model you should open the list of files by clicking on the menu item 'Assets' and then download any of models by clicking on the file name. All models are packed in zip files.
 
 There are four types of pretraining used in this study
 * imagenet: network pretrained by imagenet dataset.
